@@ -4,13 +4,16 @@
 -- this file, save it as `hyper-apps.lua`, and edit the table below to configure
 -- your preferred shortcuts.
 return {
-  { 'a', 'Music' },             -- "A" for "Apple Music"
-  { 'b', 'Google Chrome' },     -- "B" for "Browser"
-  { 'c', 'Slack' },             -- "C for "Chat"
-  { 'd', 'Remember The Milk' }, -- "D" for "Do!" ... or "Done!"
-  { 'e', 'Atom' },              -- "E" for "Editor"
-  { 'f', 'Finder' },            -- "F" for "Finder"
-  { 'g', 'Mailplane 3' },       -- "G" for "Gmail"
-  { 's', 'Slack' },             -- "S" for "Slack"
-  { 't', 'iTerm' },             -- "T" for "Terminal"
+  { 'b', 'Brave' }, -- "B" for "Browser"
+  { 'c', 'Slack' }, -- "C for "Chat"
+  { 'd', 'Figma' }, -- "D for "Design"
+  { 'e', 'Visual Studio Code' },-- "E" for "Editor"
+  { 'f', 'Finder' }, -- "F" for "Finder"
+  { 'i', 'iTerm' }, -- "I" for "iTerm"
+  { 'm', 'Spark' }, -- "M" for "mail"
+  { 's', 'Spotify' }, -- "S" for "Spotify"
+  { 't', 'Terminal' }, -- "T" for "Terminal"
+  { 'v', 'Final Cut Pro' }, -- "V" for "Videoediting"
+  { 'w', 'Typora' }, -- "W for "Write" 
+  { 'p', 'Affinity Photo' }, -- "p for "photo editing" 
 }
